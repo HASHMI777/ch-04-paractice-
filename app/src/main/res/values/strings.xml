@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">chapter 04 paractice</string>
+    <string name="todo">TODO</string>
+    <string name="welcom_to_the_java_quiz">Welcom to the java Quiz</string>
+    <string name="when_was_the_java_created">when was the java created</string>
+    <string name="no">no</string>
+    <string name="yes">yes</string>
+    <string name="_1_when_was_the_java_created">1-when_was_the_java_created</string>
+</resources>
